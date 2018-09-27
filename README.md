@@ -6,7 +6,7 @@
 
 
 ## Демо с лекций
-* Лекция 1. [Демо приложение](https://github.com/naumen-student/EnterpriseJavaCourse-2018/demo/lecture01/)
+* Лекция 1. [Демо приложение](https://github.com/naumen-student/EnterpriseJavaCourse-2018/tree/master/demo/lecture01)
 
 
 ## Практика
