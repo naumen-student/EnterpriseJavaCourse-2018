@@ -8,6 +8,8 @@ layout: default
 * Лекция 3. [Паттерны проектирования](lecture/lecture03.html)
 * Лекция 4. [Тестирование програмного обеспечения](lecture/lecture04.html)
 * Лекция 5. [Инверсия управления](lecture/lecture05.html)
+* Лекция 6. 
+* Лекция 7. [Инверсия управления](lecture/lectureAboutDB.pdf)
 
 
 ## Демо с лекций
