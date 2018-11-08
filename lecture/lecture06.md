@@ -16,7 +16,7 @@
 ### Реалии командной разработки
 
 <center>
-![git blame image](/img/git_blame.jpg)
+![git blame image](img/git_blame.jpg)
 </center>
 
 ---
@@ -39,17 +39,17 @@
 ---
 ### Это чистый код?
 
-![bad code example](/img/bad_code.jpg)
+![bad code example](img/bad_code.jpg)
 
 ---
 ### Это чистый код?
 
-![better code example](/img/better_code.jpg)
+![better code example](img/better_code.jpg)
 
 ---
 ### Это чистый код?
 
-![yet better code example](/img/yet_better_code.jpg)
+![yet better code example](img/yet_better_code.jpg)
 
 ---
 ## Как писать чистый код
@@ -64,7 +64,7 @@
 ### Помнить, что код пишется для человека
 
 <center>
-![wtf per minute](/img/wtf.png)
+![wtf per minute](img/wtf.png)
 </center>
 
 ---
@@ -115,17 +115,17 @@ Note: нужен ли слайд "хорошо"?
 ---
 ### Разбивать большие блоки кода
 
-![bad code example](/img/bad_code.jpg)
+![bad code example](img/bad_code.jpg)
 
 ---
 ### Разбивать большие блоки кода
 
-![better code example](/img/better_code.jpg)
+![better code example](img/better_code.jpg)
 
 ---
 ### Разбивать большие блоки кода
 
-![yet better code example](/img/yet_better_code.jpg)
+![yet better code example](img/yet_better_code.jpg)
 
 ---
 ### Уничтожать дублирование
@@ -142,7 +142,7 @@ Note: нужен ли слайд "хорошо"?
 ### Только чистый код, только хардкор!
 
 <center>
-![che guevara](/img/che.jpg)
+![che guevara](img/che.jpg)
 </center>
 
 ---
@@ -151,7 +151,7 @@ Note: нужен ли слайд "хорошо"?
 Экономия на чистоте кода приводит к техническому долгу
 
 <center>
-![wires](/img/legacy_code.jpg)
+![wires](img/legacy_code.jpg)
 </center>
 
 ---
@@ -219,7 +219,7 @@ https://git-scm.com/book/ru/v2
 
 ---
 
-![whiplash movie](/img/whiplash.jpg)
+![whiplash movie](img/whiplash.jpg)
 
 ---
 ### Как получить опыт
@@ -251,17 +251,17 @@ http://codingdojo.org
 ---
 ### Мартин Фаулер
 
-![refactoring book](/img/refactoring_books.png)
+![refactoring book](img/refactoring_books.png)
 
 ---
 ### Майкл Физерс
 
-![effective work](/img/effective_work.jpg)
+![effective work](img/effective_work.jpg)
 
 ---
 ### Роберт Мартин
 
-![clean code books](/img/clean_code_books.png)
+![clean code books](img/clean_code_books.png)
 
 ---
 ## Профит
