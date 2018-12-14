@@ -13,7 +13,7 @@ layout: default
 
 * Лекция 8. [Работа с базами данных](lecture/lectureAboutDB.pdf)
 * Лекция 9. [Многопоточность и JAVA](lecture/lecture-09.html)
-* Лекция 10. [Немного анатомии Java: Java-байткод, JOL, Classloading, JIT]()
+* Лекция 10. [Немного анатомии Java: Java-байткод, JOL, Classloading, JIT](https://docs.google.com/presentation/d/1EX8b6dWFSRpqmeDGSGaEpuHE9R-ngNT1zPqQD34BaeI/edit#slide=id.p)
 * Лекция 11. [JVM: управление памятью. GC.](https://docs.google.com/presentation/d/16sk6CxylIp8f5X-zLOi6jB9dR3qcB1R6XE0UvEiA3kA/edit?usp=sharing)
 * Лекция 12. [Архитектура корпоративных приложений](lecture/lecture12.html)
 * Лекция 13. [Tooling](https://docs.google.com/presentation/d/1UOSW3F58mztHSf8ysrg7BRGQvpX2RJJ54zMmhgPLdMs/edit#slide=id.p)
