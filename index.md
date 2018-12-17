@@ -9,8 +9,7 @@ layout: default
 * Лекция 4. [Тестирование програмного обеспечения](lecture/lecture04.html)
 * Лекция 5. [Инверсия управления](lecture/lecture05.html)
 * Лекция 6. [Чистый код](lecture/lecture06.html)
-* Лекция 7. [Работа с базами данных](lecture/lectureAboutDB.pdf)
-
+* Лекция 7. [RPC или социализация приложений](lecture/lecture07.html)
 * Лекция 8. [Работа с базами данных](lecture/lectureAboutDB.pdf)
 * Лекция 9. [Многопоточность и JAVA](lecture/lecture-09.html)
 * Лекция 10. [Немного анатомии Java: Java-байткод, JOL, Classloading, JIT](https://docs.google.com/presentation/d/1EX8b6dWFSRpqmeDGSGaEpuHE9R-ngNT1zPqQD34BaeI/edit#slide=id.p)
@@ -22,6 +21,7 @@ layout: default
 ## Демо с лекций
 * Лекция 1. [Демо приложение](https://github.com/naumen-student/EnterpriseJavaCourse-2018/tree/master/demo/lecture01)
 * Лекция 3. [Паттерны проектирования](https://github.com/naumen-student/EnterpriseJavaCourse-2018/tree/master/demo/lecture03)
+* Лекция 7. [RMI, SOAP](https://github.com/naumen-student/EnterpriseJavaCourse-2018/tree/master/demo/lecture07)
 
 ## Практика
 [Описание](practice.md)
